@@ -12,3 +12,7 @@ keywords = ["shell", "bash", "zsh", "fish"]
 categories = ["command-line-utilities"]
 
 [dependencies]
+ansi_term = "0.12"
+shellexpand = "2.1"
+dirs-next = "2"
+crossterm = "0.19"
