@@ -1,0 +1,14 @@
+[package]
+name = "rsh"
+version = "0.1.0"
+authors = ["Matthew Blode <m@blode.co>"]
+edition = "2018"
+description = "RSH is a minimal shell"
+documentation = "https://docs.rs/rsh"
+readme = "README.md"
+repository = "https://github.com/mblode/rsh/"
+license = "MIT"
+keywords = ["shell", "bash", "zsh", "fish"]
+categories = ["command-line-utilities"]
+
+[dependencies]
